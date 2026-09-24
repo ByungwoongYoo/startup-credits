@@ -10,6 +10,7 @@ entity:
       valid_from: 2026-08-29T12:29:31.000Z
   category: observability
 profile:
+  summary: Uxify combines real-user monitoring with AI agents that speed up page loads, improve interactions, and save carts at checkout to lift site performance and conversion.
   description: Uxify provides real-user monitoring and AI agents for improving website performance, engagement, and conversion.
   links:
     site: https://uxify.com
